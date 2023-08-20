@@ -11,7 +11,7 @@ Responsive design
 Technology Stack
 Firebase (Real-time Database, Authentication)
 React
-Node.js (if you're using it)
+Node.js
 CSS
 Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
